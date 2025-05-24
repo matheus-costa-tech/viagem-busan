@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 8.8rem 8rem;
+}
+
+.title-page{
+   margin-bottom: 4rem;
+}
+
+h1{
+    margin-top: .8rem;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 26px;
+}
