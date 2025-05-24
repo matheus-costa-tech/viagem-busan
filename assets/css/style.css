@@ -18,3 +18,7 @@ h1{
     display: block;
     border-radius: 26px;
 }
+
+#content-list{
+    margin-top: 6.4rem;
+}
