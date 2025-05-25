@@ -51,7 +51,7 @@ h1{
 }
 
 .image-1{
-    background-image: url(./assets/img/Image_02.jpg)
+    background-image: url(../img/Image_02.jpg)
 }
 
 /*temple Haedong */
@@ -72,7 +72,7 @@ h1{
     margin-bottom: 4.8rem;
 }
 .image-2{
-    background-image: url(./assets/img/Image_03.jpg);
+    background-image: url(../img/Image_03.jpg);
     margin-bottom: 2rem;
 }
 
@@ -87,7 +87,7 @@ h1{
 }
 
 .image-3{
-    background-image: url(./assets/img/Image_04.jpg);
+    background-image: url(../img/Image_04.jpg);
 
 }
 
