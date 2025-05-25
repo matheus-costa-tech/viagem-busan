@@ -31,3 +31,32 @@ h2{
     color: var(--text-secondary);
     font-size: 1.6rem;
 }
+
+h3{
+    color: var(--text-primary);
+    font-size: 2.8rem;
+}
+
+strong{
+    font-size: 1.6rem;
+    color: var(--text-secondary);
+}
+
+span{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.history{
+    color: var(--accent-blue);
+}
+
+.couple{
+    color: var(--accent-purple);
+}
+.family{
+    color: var(--accent-pink);
+}
+.budget{
+    color: var(--accent-orange);
+}
